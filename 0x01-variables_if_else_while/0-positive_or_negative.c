@@ -5,7 +5,7 @@
  *main - entry point function
  *
  *return - returns 0
- *
+ *description - returns postive or negative numbers
  */
 int main(void)
 {
