@@ -17,4 +17,5 @@ continue;
 putchar(a);      
 }
 putchar('\n');
-return (
+return (0);
+} 
