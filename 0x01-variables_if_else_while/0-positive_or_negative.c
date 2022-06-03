@@ -2,10 +2,10 @@
 #include  <time.h>
 #include  <stdio.h>
 /**
- *main - entry point function
+ * main - entry point function
  *
- *return - returns 0
- *description - returns postive or negative numbers
+ * return - returns 0
+ *
  */
 int main(void)
 {
