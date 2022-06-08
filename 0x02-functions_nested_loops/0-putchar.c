@@ -17,17 +17,18 @@
 int main(void)
   
 {
+  _putchar('_')
+  _putchar('p');
   
-  _putchar('H');
+  _putchar('u');
   
-  _putchar('o');
+  _putchar('t');
   
-  _putchar('l');
+  _putchar('c');
   
-  _putchar('b');
+  _putchar('h');
   
-  _putchar('e');
-  
+  _putchar('a');
   _putchar('r');
   
   _putchar('t');
