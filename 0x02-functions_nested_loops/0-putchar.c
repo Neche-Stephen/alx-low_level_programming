@@ -1,49 +1,43 @@
-#include <unistd.h>
+#include "main.h"
 
 
 
-int _putchar(char c)
+/**
+
+ * main - Entry point
+
+ *
+
+ * Return: Always returns 0
+
+ *
+
+ */
+
+int main(void)
   
 {
   
-  return (write(1, &c, 1));
+  _putchar('H');
   
-}
-
-
-
-int main ()
+  _putchar('o');
   
-{
+  _putchar('l');
   
-
+  _putchar('b');
   
-  _putchar('_');
-  
-  _putchar('p');
-  
-  _putchar('u');
-  
-  _putchar('t');
-  
-  _putchar('c');
-  
-  _putchar('h');
-  
-  _putchar('a');
+  _putchar('e');
   
   _putchar('r');
   
+  _putchar('t');
+  
+  _putchar('o');
+  
+  _putchar('n');
+  
   _putchar('\n');
   
-
-  
-
-  
-  return 0;
-  
-
-  
-
+  return (0);
   
 }

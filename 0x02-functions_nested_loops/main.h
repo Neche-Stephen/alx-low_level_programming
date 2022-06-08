@@ -1,0 +1,22 @@
+#ifndef MAIN_H_INCLUDED
+
+#define MAIN_H_INCLUDED
+
+/**
+
+ * _putchar - writes a single character to the standard output stream, stdout.
+
+ *  Return:  returns 1 or 0
+
+ */
+
+int _putchar(char c)
+  
+
+  
+
+  
+
+  
+#endif // MAIN_H_INCLUDED
+  
