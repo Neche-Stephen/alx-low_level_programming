@@ -10,7 +10,7 @@
 
  */
 
-int _putchar(int char)
+int _putchar(char c);
   
 
   
