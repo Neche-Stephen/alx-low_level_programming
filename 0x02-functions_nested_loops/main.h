@@ -57,5 +57,15 @@ int _islower(int c);
  */
 
 int _isalpha(int c);
+/**
 
+ * print_sign - prints a sign based on n
+
+ * @n: integer to use
+
+ * Return: 1 or 0  or -1
+
+ */
+
+int print_sign(int n);
 #endif
