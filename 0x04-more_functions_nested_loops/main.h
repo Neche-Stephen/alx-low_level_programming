@@ -57,5 +57,16 @@ int mul(int a, int b);
 
 void print_numbers(void);
 
+/**
+
+ * print_most_numbers - prints the numbers (0-9, except 2,4)
+
+ *
+
+ */
+
+void print_most_numbers(void);
+
+
 #endif
 
