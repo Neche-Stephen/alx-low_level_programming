@@ -145,4 +145,16 @@ void print_array(int *a, int n);
 
 char *_strcpy(char *dest, char *src);
 
+/**
+
+ * _atoi - convert char to int
+
+ * @s: string
+
+ * Return: returns a value
+
+ */
+
+int _atoi(char *s);
+
 #endif
