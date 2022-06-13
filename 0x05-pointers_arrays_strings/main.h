@@ -91,4 +91,16 @@ void print_rev(char *s);
 
 void rev_string(char *s);
 
+/**
+
+ * puts2 - puts things twice
+
+ *
+
+ * @str: string to put twice
+
+ */
+
+void puts2(char *str);
+
 #endif
