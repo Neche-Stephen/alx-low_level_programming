@@ -110,4 +110,33 @@ char *string_toupper(char *s);
 char *cap_string(char *s);
 
 
+
+/**
+
+ * leet - switches characters to 1337
+
+ * @s: string to switch
+
+ *
+
+ * Return: returns character
+
+ */
+
+char *leet(char *s);
+
+
+/**
+
+ * rot13 - converts to rot13
+
+ * @s: string to convert to rot13
+
+ * Return: returns a char
+
+ */
+
+char *rot13(char *s);
+
+
 #endif
