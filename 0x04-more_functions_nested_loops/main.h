@@ -125,5 +125,19 @@ void print_diagonal(int n);
 
 
 
+/**
+
+ * print_square - prints a square
+
+ *
+
+ * @size: prints the size of whatever
+
+ */
+
+void print_square(int size);
+
+
+
 #endif
 
