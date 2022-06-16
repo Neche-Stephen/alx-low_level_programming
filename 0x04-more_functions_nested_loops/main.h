@@ -150,7 +150,17 @@ void print_square(int size);
 
 void print_triangle(int size);
 
+/**
 
+ * print_number - prints number
+
+ *
+
+ * @n: integer to print to char
+
+ */
+
+void print_number(int n);
 
 
 #endif
