@@ -77,5 +77,19 @@ unsigned int _strspn(char *s, char *accept);
 
 char *_strpbrk(char *s, char *accept);
 
+/**
+
+ * _strstr - locates substring
+
+ * @haystack: string to locate substring
+
+ * @needle: string to locate
+
+ * Return: return string found
+
+ */
+
+char *_strstr(char *haystack, char *needle);
+
 
 #endif
