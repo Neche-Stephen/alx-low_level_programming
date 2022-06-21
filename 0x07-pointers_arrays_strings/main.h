@@ -115,5 +115,17 @@ void print_chessboard(char (*a)[8]);
 
 int _putchar(char c);
 
+/**
+
+ * print_diagsums - prints diagonal sums
+
+ * @a: array to do
+
+ * @size: size of arrays
+
+ */
+
+void print_diagsums(int *a, int size);
+
 
 #endif
