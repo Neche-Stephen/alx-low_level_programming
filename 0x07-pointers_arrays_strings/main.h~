@@ -18,21 +18,5 @@
 
 char *_memset(char *s, char b, unsigned int n);
 
-/**
-
- * _memcpy - copies value from src to dest
-
- * @dest: destination to copy
-
- * @src: source to copy from
-
- * @n: amount of times from 0 to copy
-
- * Return: return string char value
-
- */
-
-char *_memcpy(char *dest, char *src, unsigned int n);
-
 
 #endif
