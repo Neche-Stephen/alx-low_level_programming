@@ -127,5 +127,17 @@ int _putchar(char c);
 
 void print_diagsums(int *a, int size);
 
+/**
+
+ * set_string - sets string to something
+
+ * @s: string to set to
+
+ * @to: set to
+
+ */
+
+void set_string(char **s, char *to);
+
 
 #endif
