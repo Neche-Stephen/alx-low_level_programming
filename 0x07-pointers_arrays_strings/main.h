@@ -63,5 +63,19 @@ char *_strchr(char *s, char c);
 
 unsigned int _strspn(char *s, char *accept);
 
+/**
+
+ * _strpbrk - search string for all chars
+
+ * @s: string to search
+
+ * @accept: accepting string
+
+ * Return: return those letters only
+
+ */
+
+char *_strpbrk(char *s, char *accept);
+
 
 #endif
