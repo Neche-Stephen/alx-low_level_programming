@@ -59,5 +59,19 @@ int _strlen_recursion(char *s);
 
 int factorial(int n);
 
+/**
+
+ * _pow_recursion - gives power
+
+ * @x: integer to power
+
+ * @y: power to do
+
+ * Return: return integer value
+
+ */
+
+int _pow_recursion(int x, int y);
+
 
 #endif
