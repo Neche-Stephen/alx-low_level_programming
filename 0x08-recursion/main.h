@@ -97,5 +97,17 @@ int _sqrt_recursion(int n);
 
 int is_prime_number(int n);
 
+/**
+
+ * is_palindrome - is palindrome
+
+ * @s: string to do
+
+ * Return: boolean
+
+ */
+
+int is_palindrome(char *s);
+
 
 #endif
