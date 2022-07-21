@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * binary_to_uint - binary to uint
  * @b: string to convert
