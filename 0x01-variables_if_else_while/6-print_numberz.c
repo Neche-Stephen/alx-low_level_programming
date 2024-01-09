@@ -3,7 +3,6 @@
 /**
  * main - Print characters 0 - 9
  * Return: returns zero
-
 */
 
 int main(void)
