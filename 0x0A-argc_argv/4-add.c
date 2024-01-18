@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 		return (0);
 	}
 
-	while(count--)
+	while (count--)
 	{
 		if (isdigit(*argv[i]))
 		{
@@ -33,8 +33,7 @@ int main(int argc, char *argv[])
 		{
 			printf("Error\n");
 			return (1);
-		}
-		
+		}	
 	}
 	printf("%d\n", sum);
 
