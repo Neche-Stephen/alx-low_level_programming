@@ -5,10 +5,10 @@
  * @argc: The number of command-line arguments
  * @argv: An array containing the command-line arguments
  *
- * Return: returns zero 
+ * Return: returns zero
 */
 
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	(void)argc;
 	printf("%s\n", argv[0]);
