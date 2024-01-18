@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /**
- * main 
+ * main - This program multiplies two command-line arguments
  * @argc: The number of command-line arguments
  * @argv: An array containing the command-line arguments
  *
- * Return: 
+ * Return: 0 on successful execution, 1 on error
 */
 
 int main(int argc, char *argv[])
