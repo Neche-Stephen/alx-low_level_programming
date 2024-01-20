@@ -1,4 +1,8 @@
 #include "main.h"
+
+/**
+ * print_alphabet_x10 - prints lowercase alphabets 10 times
+*/
 void print_alphabet_x10(void)
 {
 	int times = 1;
@@ -7,7 +11,7 @@ void print_alphabet_x10(void)
 	while (times < 11)
 	{
 		i = 97;
-		while ( i < 123)
+		while (i < 123)
 		{
 			_putchar(i);
 			i++;
