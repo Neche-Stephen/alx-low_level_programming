@@ -1,4 +1,5 @@
 #include <stdarg.h>
+#include "variadic_functions.h"
 /**
  * sum_them_all - Calculates the sum of a variable number of integers.
  * @n: The number of integers to sum.
