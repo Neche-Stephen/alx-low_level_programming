@@ -11,11 +11,11 @@ size_t print_list(const list_t *h)
 
 	while (police->next != NULL)
 	{
-		printf("%d %s\n", police->len, police->str);
+		printf("[%d] %s\n", police->len, police->str);
 		police = police->next;
 		i++;
 	}
-	printf("%d %s\n", police->len, police->str);
+	printf("[%d] %s\n", police->len, police->str);
 	return (i);
 
 }
