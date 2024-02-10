@@ -12,7 +12,7 @@
 unsigned int binary_to_uint(const char *b)
 {
 	int power;
-	int length = strlen(b);
+	int length;
 	int i = 0;
 	unsigned int sum = 0;
 	int f;
@@ -21,8 +21,9 @@ unsigned int binary_to_uint(const char *b)
 	{
 		return (0);
 	}
+	length = strlen(b);
 	power = length - 1;
-	while(i < length)
+	while (i < length)
 	{
 		f = b[i] - '0';
 		if ((f != 1) && (f != 0))
